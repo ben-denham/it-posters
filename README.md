@@ -7,9 +7,9 @@ posters were inspired by topics covered in
 
 The posters are available in the following formats:
 
-* [pdfs](pdfs/) - Best for printing
+* [pdf](pdf/) - Best for printing
 * [odp](odp/) - Best for editing
-* [svgs](svgs/) - Best for posterity
+* [svg](svg/) - Best for posterity
 
 The posters were originally produced with Google Slides.
 
